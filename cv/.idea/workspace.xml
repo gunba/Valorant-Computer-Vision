@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca49a22b-9739-44df-a2b9-d54e975ea6b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ay2TJDjLGi6FmNWMPp3XIVySu5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gunba\PycharmProjects\sentinel" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.initiator">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="sentinel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Gunba\PycharmProjects\sentinel\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sentinel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="controller" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="sentinel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Gunba\PycharmProjects\sentinel\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/controller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="duelist" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="sentinel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Gunba\PycharmProjects\sentinel\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/duelist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="initiator" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="sentinel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Gunba\PycharmProjects\sentinel\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Gunba\PycharmProjects\sentinel\initiator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sentinel" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="sentinel" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Gunba\PycharmProjects\sentinel\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sentinel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.initiator" />
+      <item itemvalue="Python.duelist" />
+      <item itemvalue="Python.sentinel" />
+      <item itemvalue="Python.controller" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca49a22b-9739-44df-a2b9-d54e975ea6b0" name="Default Changelist" comment="" />
+      <created>1587693518755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587693518755</updated>
+      <workItem from="1587693524683" duration="7880000" />
+      <workItem from="1587781465385" duration="17711000" />
+      <workItem from="1587841775427" duration="45391000" />
+      <workItem from="1587959627063" duration="6263000" />
+      <workItem from="1587972013278" duration="312000" />
+      <workItem from="1588015075530" duration="15924000" />
+      <workItem from="1588094002088" duration="24859000" />
+      <workItem from="1588187819567" duration="2556000" />
+      <workItem from="1588199075298" duration="18152000" />
+      <workItem from="1588356526779" duration="16402000" />
+      <workItem from="1588404241669" duration="6333000" />
+      <workItem from="1588410922040" duration="1871000" />
+      <workItem from="1588490632659" duration="1642000" />
+      <workItem from="1588532719378" duration="8876000" />
+      <workItem from="1588615369757" duration="2399000" />
+      <workItem from="1588789983132" duration="3509000" />
+      <workItem from="1588870211885" duration="14717000" />
+      <workItem from="1588960751006" duration="2078000" />
+      <workItem from="1589133193423" duration="9396000" />
+      <workItem from="1589170765085" duration="7251000" />
+      <workItem from="1589261345206" duration="4771000" />
+      <workItem from="1589320097875" duration="1237000" />
+      <workItem from="1589347226181" duration="16032000" />
+      <workItem from="1589564823470" duration="6820000" />
+      <workItem from="1589651108596" duration="3510000" />
+      <workItem from="1589737380210" duration="1807000" />
+      <workItem from="1589917267887" duration="2619000" />
+      <workItem from="1589997656096" duration="20139000" />
+      <workItem from="1590521773117" duration="1782000" />
+      <workItem from="1590552826688" duration="4043000" />
+      <workItem from="1590720509825" duration="3411000" />
+      <workItem from="1590798076410" duration="303000" />
+      <workItem from="1590894980254" duration="8625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="176" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588225518463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588225518463" />
+    <state width="1772" height="698" key="DebuggerActiveHint" timestamp="1590723917405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1772" height="698" key="DebuggerActiveHint/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1590723917405" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1590798375936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1590798375936" />
+    <state width="932" height="341" key="GridCell.Tab.0.bottom" timestamp="1590973826526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="926" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1589394843730" />
+    <state width="932" height="341" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1590973826526" />
+    <state width="932" height="341" key="GridCell.Tab.0.center" timestamp="1590973826526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="926" height="294" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1589394843730" />
+    <state width="932" height="341" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1590973826526" />
+    <state width="932" height="341" key="GridCell.Tab.0.left" timestamp="1590973826526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="926" height="294" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1589394843729" />
+    <state width="932" height="341" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1590973826526" />
+    <state width="932" height="341" key="GridCell.Tab.0.right" timestamp="1590973826526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="926" height="294" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1589394843730" />
+    <state width="932" height="341" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1590973826526" />
+    <state width="938" height="426" key="GridCell.Tab.1.bottom" timestamp="1590734112059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="426" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1590734112059" />
+    <state width="938" height="426" key="GridCell.Tab.1.center" timestamp="1590734112059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="426" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1590734112059" />
+    <state width="938" height="426" key="GridCell.Tab.1.left" timestamp="1590734112059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="426" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1590734112059" />
+    <state width="938" height="426" key="GridCell.Tab.1.right" timestamp="1590734112059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="426" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1590734112059" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1588229820849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1588229820849" />
+    <state width="960" height="520" key="XDebugger.FullValuePopup" timestamp="1589569193396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="960" height="520" key="XDebugger.FullValuePopup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589569193396" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1590798079444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1590798079444" />
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1589485282313">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589485282313" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="json" />
+        <watch expression="round" />
+        <watch expression="json.rounds[7][115].feed[1]" />
+        <watch expression="json.rounds[7][121].feed[0]" />
+        <watch expression="json[37]" />
+        <watch expression="json[313]" />
+        <watch expression="json.rounds[7][121].feed[0]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sentinel$duelist.coverage" NAME="duelist Coverage Results" MODIFIED="1590724709361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sentinel$initiator.coverage" NAME="initiator Coverage Results" MODIFIED="1590973826521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sentinel$sentinel.coverage" NAME="sentinel Coverage Results" MODIFIED="1590724731112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sentinel$controller.coverage" NAME="controller Coverage Results" MODIFIED="1590724738418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
