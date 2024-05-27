@@ -1,5 +1,4 @@
 import cv2
-import os
 
 def process_video(video):
     capture = cv2.VideoCapture(video)

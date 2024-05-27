@@ -1,11 +1,9 @@
 from keras.models import Sequential
 from keras.layers import Conv2D
-from keras.layers import Dropout, Flatten, Dense, BatchNormalization, MaxPooling2D
+from keras.layers import Flatten, Dense, BatchNormalization
 from keras.callbacks import ModelCheckpoint, EarlyStopping
 from timeit import timeit
 from keras_preprocessing.image import ImageDataGenerator
-from keras.optimizers import Adam
-import os
 
 ih = 25
 iw = 36
